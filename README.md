@@ -13,4 +13,4 @@ This is the source code for this paper called "SiamBAG: Band Attention Grouping-
  Your browser does not support the video tag.
 </video>
 
-<video src="https://github.com/zephyrhours/Hyperspectral-Object-Tracking-SiamBAG/blob/main/SiamBAG_performance.mp4"></video>
+<video src="https://github.com/zephyrhours/Hyperspectral-Object-Tracking-SiamBAG/SiamBAG_performance.mp4"></video>
