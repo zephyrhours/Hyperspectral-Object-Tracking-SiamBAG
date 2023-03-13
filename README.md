@@ -8,9 +8,4 @@ This is the source code for this paper called "SiamBAG: Band Attention Grouping-
 
 # Visualization Tracking Results
 
-<video width="1280" height="720" controls autoplay muted loop>
-<source src="videos/SiamBAG_performance.mp4" type="video/mp4">
- Your browser does not support the video tag.
-</video>
-
 <video src="SiamBAG_performance.mp4"></video>
