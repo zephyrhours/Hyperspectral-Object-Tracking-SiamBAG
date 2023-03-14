@@ -8,4 +8,4 @@ This is the source code for this paper called "SiamBAG: Band Attention Grouping-
 
 # Visualization Tracking Results
 
-<video src="SiamBAG_performance.mp4"></video>
+<video src="worker.avi"></video>
