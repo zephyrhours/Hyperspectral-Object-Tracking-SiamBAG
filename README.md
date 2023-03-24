@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/45682966/225011464-7e907999-2c1b-4b24-
 <tr>
   <td><img src="paper.gif" alt="paper" width="200px" height="100px"></td>
   <td><img src="pedestrian2.gif" alt="pedestrian2" width="200px" height="100px"></td>
-  <td><img src="playground.gif" alt="playground" height="100px"></td>
+  <td><img src="playground.gif" alt="playground" width="200px" height="100px"></td>
 </tr></table>
 
 
