@@ -33,7 +33,9 @@ https://user-images.githubusercontent.com/45682966/225011464-7e907999-2c1b-4b24-
 # Prerequisites
 
 Some important environments for SiamBAG. 
+
 1. **Python 3.9**
 2. **PyTorch 1.13.0**
 3. **CUDA 11.6**
+
 Please refer to 'SiamBAG-Installation_Environment.txt' file for more detailed.
