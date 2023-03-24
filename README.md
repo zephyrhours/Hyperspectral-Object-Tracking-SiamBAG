@@ -38,4 +38,4 @@ Some important environments for SiamBAG.
 2. **PyTorch 1.13.0**
 3. **CUDA 11.6**
 
-Please refer to 'SiamBAG-Installation_Environment.txt' for more detailed.
+Please refer to 'SiamBAG-Installation_Environment.txt' file for more detailed.
