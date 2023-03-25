@@ -17,7 +17,6 @@ https://user-images.githubusercontent.com/45682966/225011464-7e907999-2c1b-4b24-
 
 **GIF tracking results in some scenarios:**
 <table><tr>
-  <td><img src="basketball.gif" alt="basketball" width="200px" height="100px"></td>
   <td><img src="car3.gif" alt="car3" width="200px" height="100px"></td>
   <td><img src="coke.gif" alt="coke" width="200px" height="100px"></td>
   <td><img src="forest2.gif" alt="forest2" width="200px" height="100px"></td>
