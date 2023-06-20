@@ -29,6 +29,8 @@ https://user-images.githubusercontent.com/45682966/225011464-7e907999-2c1b-4b24-
 
 
 **Note that**: in these scenarios, the black bounding box is SiamBAG tracker, the blue one is ground truth, and the red one is BAENet tracker. 
+
+
 # Prerequisites
 
 Some important environments for SiamBAG. 
@@ -38,3 +40,35 @@ Some important environments for SiamBAG.
 3. **CUDA 11.6**
 
 Please refer to 'SiamBAG-Installation_Environment.txt' file for more detailed.
+
+
+# Source
+**Paper Download:**<br />
+- [IEEE Xplore](https://ieeexplore.ieee.org/document/10149343)
+
+
+# Citation
+
+If these codes are helpful for you, please cite this paper:
+
+**BibTex Format:**<br />
+
+```
+@ARTICLE{10149343,
+author={Li, Wei and Hou, Zengfu and Zhou, Jun and Tao, Ran},
+journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+title={SiamBAG: Band Attention Grouping-based Siamese Object Tracking Network for Hyperspectral Videos}, 
+year={2023},
+volume={},
+number={},
+pages={1-1},
+doi={10.1109/TGRS.2023.3285802}}
+```
+
+
+**Plain Text Format:**<br />
+
+```
+W. Li, Z. Hou, J. Zhou and R. Tao, "SiamBAG: Band Attention Grouping-based Siamese Object Tracking Network for Hyperspectral Videos," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2023.3285802.
+```
+
