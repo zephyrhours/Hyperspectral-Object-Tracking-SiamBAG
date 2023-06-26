@@ -2,9 +2,6 @@
 
 This is the source code for this paper called "SiamBAG: Band Attention Grouping-based Siamese Object Tracking Network for Hyperspectral Videos"
 
-**After this paper is published, this source code of the SiamBAG tracker will be available. Please look forward to it**
-
-
 
 # Visualization Tracking Results
 
@@ -46,6 +43,10 @@ Please refer to 'SiamBAG-Installation_Environment.txt' file for more detailed.
 **Paper Download:**<br />
 - [IEEE Xplore](https://ieeexplore.ieee.org/document/10149343)
 
+**Pretrained model Download:**<br />
+1. You can download the pretrained `model.pth` from
+- [siamrpn model](https://drive.google.com/file/d/1zAcDWZ_33MoU-heftat5dSuik0Yj6pZ8/view?usp=sharing)
+or [Baidu Yun](https://pan.baidu.com/s/1QYoQUNraPMUmFW6rp5PDFA) or [Google Drive](https://drive.google.com/open?id=1P0nshF9OjEJwuY9bScuLhPyA2CXSNB5f), and put the file under `pretrained/siamrpn`.
 
 # Citation
 
