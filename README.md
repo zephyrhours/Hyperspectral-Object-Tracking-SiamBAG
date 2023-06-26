@@ -58,16 +58,15 @@ author={Li, Wei and Hou, Zengfu and Zhou, Jun and Tao, Ran},
 journal={IEEE Transactions on Geoscience and Remote Sensing}, 
 title={SiamBAG: Band Attention Grouping-based Siamese Object Tracking Network for Hyperspectral Videos}, 
 year={2023},
-volume={},
+volume={61},
 number={},
-pages={1-1},
+pages={1-12},
 doi={10.1109/TGRS.2023.3285802}}
 ```
-
 
 **Plain Text Format:**<br />
 
 ```
-W. Li, Z. Hou, J. Zhou and R. Tao, "SiamBAG: Band Attention Grouping-based Siamese Object Tracking Network for Hyperspectral Videos," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2023.3285802.
+W. Li, Z. Hou, J. Zhou and R. Tao, "SiamBAG: Band Attention Grouping-Based Siamese Object Tracking Network for Hyperspectral Videos," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-12, 2023, Art no. 5514712, doi: 10.1109/TGRS.2023.3285802.
 ```
 
