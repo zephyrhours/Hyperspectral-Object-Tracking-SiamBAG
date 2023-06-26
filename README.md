@@ -44,7 +44,7 @@ Please refer to 'SiamBAG-Installation_Environment.txt' file for more detailed.
 - [IEEE Xplore](https://ieeexplore.ieee.org/document/10149343)
 
 **Pretrained model Download:**<br />
-You can download the pretrained `model.pth` from [Google Drive1](https://drive.google.com/file/d/1zAcDWZ_33MoU-heftat5dSuik0Yj6pZ8/view?usp=sharing) or [Baidu Yun](https://pan.baidu.com/s/1TJB39N2Emj-vil10r0Ee4g) with extract password [gloh], and put the file under `pretrained/siamrpn`.
+You can download the pretrained `model.pth` from [Google Drive](https://drive.google.com/file/d/1zAcDWZ_33MoU-heftat5dSuik0Yj6pZ8/view?usp=sharing) or [Baidu Yun](https://pan.baidu.com/s/1TJB39N2Emj-vil10r0Ee4g) with extract password [gloh], and put the file under `pretrained/siamrpn`.
 
 # Citation
 
